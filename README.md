@@ -1,4 +1,4 @@
-# Course Library API
+# ASP.NET 6 Web API Deep Dive
 This course will teach you how to build a truly RESTful API, using deep-dive ASP.NET Core 6 concepts.
 
 ## What you'll learn
